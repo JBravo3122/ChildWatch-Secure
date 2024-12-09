@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bd6c8aa.css",
+    "main.js": "/static/js/main.b9f008b1.js",
+    "static/js/952.7a725ddc.chunk.js": "/static/js/952.7a725ddc.chunk.js",
+    "static/js/453.7178b3dd.chunk.js": "/static/js/453.7178b3dd.chunk.js",
+    "static/media/header.jpg": "/static/media/header.1cba5c0754173feda789.jpg",
+    "static/media/grooming.jpg": "/static/media/grooming.a31c6154950ca2067458.jpg",
+    "static/media/sextortion.jpg": "/static/media/sextortion.6c85d97c9678adf035f7.jpg",
+    "static/media/love bombing.jpg": "/static/media/love bombing.7a9ae86b94562f50cdd8.jpg",
+    "static/media/CyberSafe-ReportSysImg.jpg": "/static/media/CyberSafe-ReportSysImg.0bd58ea9b5e8a20a6abd.jpg",
+    "static/media/Persistence.jpg": "/static/media/Persistence.ff769d216527bcf91ec4.jpg",
+    "static/media/kid1.jpeg": "/static/media/kid1.320ac9588e9088c470e9.jpeg",
+    "static/media/output-onlinepngtools.png": "/static/media/output-onlinepngtools.885239f057483dc97db4.png",
+    "static/media/luring.jpg": "/static/media/luring.004b1563f0eb63529883.jpg",
+    "static/media/kidshield.png": "/static/media/kidshield.f669a6682ffb035ec635.png",
+    "static/media/blackmail.jpg": "/static/media/blackmail.a0948425b3b61b6e6798.jpg",
+    "static/media/pity or guilt.jpg": "/static/media/pity or guilt.b205b7e0521103e38ed6.jpg",
+    "static/media/footer.jpg": "/static/media/footer.4776b9f9440513f7b0f4.jpg",
+    "static/media/bf gf.jpg": "/static/media/bf gf.574e0844117b1ebc5c55.jpg",
+    "index.html": "/index.html",
+    "main.5bd6c8aa.css.map": "/static/css/main.5bd6c8aa.css.map",
+    "main.b9f008b1.js.map": "/static/js/main.b9f008b1.js.map",
+    "952.7a725ddc.chunk.js.map": "/static/js/952.7a725ddc.chunk.js.map",
+    "453.7178b3dd.chunk.js.map": "/static/js/453.7178b3dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd6c8aa.css",
+    "static/js/main.b9f008b1.js"
+  ]
+}
